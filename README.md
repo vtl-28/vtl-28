@@ -6,11 +6,13 @@ MERN full-stack developer
 
 I did a diploma in Information Technology specializing in software development, but after I did a 3-month internship at the Digital Academy in Johannesburg, I was exposed to the world of web development and I instantly fell in love. I love the idea of having the skills and ability to be able to start and finish a project on my own, hence I worked towards being a full-stack developer. I work well in a team setup as well though. I also have a passion for DevOps, AWS technologies, and data analysis, which I plan on pursuing as soon as I am proficient in using the MERN stack for developing web applications
 
+<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" align="right" alt="Coding gif" width="300" />
+
 * 🌍  I'm based in Johannesburg
 * ✉️  You can contact me at [vtlehola23@gmail.com](mailto:vtlehola23@gmail.com)
 * 🧠  I'm learning testing web applications using React Testing Library and Jest as delivering reliable web applications is of the utmost importance to me as a developer
 * ⚡  I am a football fanatic and my favourite team is Manchester United, although they not doing well at the moment
-<img href="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" align="right" alt="Coding gif">
+
 
 ### Skills
 
