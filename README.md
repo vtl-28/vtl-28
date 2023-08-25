@@ -11,8 +11,8 @@ I did a diploma in Information Technology specializing in software development, 
 
 * 🌍  I'm based in Johannesburg
 * ✉️  You can contact me at [vtlehola23@gmail.com](mailto:vtlehola23@gmail.com)
-* 🧠  I'm learning testing web applications using React Testing Library and Jest as delivering reliable web applications is of the utmost importance to me as a developer
-* ⚡  I am a football fanatic and my favourite team is Manchester United, although they not doing well at the moment
+* 🧠  I'm learning to test web applications using React Testing Library and Jest as delivering reliable web applications is of the utmost importance to me as a developer
+* ⚡  I am a football fanatic and my favorite team is Manchester United
 
 
 ### Skills
