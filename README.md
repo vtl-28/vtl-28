@@ -1,4 +1,4 @@
-![MasterHead](https://static.platzi.com/media/blog/mern-stack-284eedb6-ee6b-4441-b181-5064a453a15a.png)
+![MasterHead](https://vuyisile-media.s3.us-east-2.amazonaws.com/_Vuyisile's+LinkedIn+Banner.png)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vuyisile Tlotliso Lehola
 ================================================================================================================================================
 
