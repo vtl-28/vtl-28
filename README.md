@@ -16,7 +16,6 @@ Always eager to explore new technologies and tools, I thrive on staying ahead of
 * ✉️  You can contact me at [vtlehola23@gmail.com](mailto:vtlehola23@gmail.com)
 * 🧠  I'm currently learning Docker
 * ⚡  I am a football fanatic and my favorite team is Manchester United
-
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=js,c,py,linux,bash,react,mongodb,docker,nodejs,postgres)](https://skillicons.dev)
 
