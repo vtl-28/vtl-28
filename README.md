@@ -17,10 +17,8 @@ Always eager to explore new technologies and tools, I thrive on staying ahead of
 * 🧠  I'm currently learning Docker
 * ⚡  I am a football fanatic and my favorite team is Manchester United
 
-
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=js,c,py,linux,bash,react,mongodb,docker,nodejs,postgres)](https://skillicons.dev)
-
 
 ### Socials
 
@@ -29,8 +27,6 @@ Always eager to explore new technologies and tools, I thrive on staying ahead of
 ### Badges
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/vtl-28"><img src="https://github-readme-stats.vercel.app/api?username=vtl-28&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vtl-28's GitHub stats" /></a>
 
 <a href="http://www.github.com/vtl-28"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vtl-28&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
