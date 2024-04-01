@@ -2,16 +2,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vuyisile Tlotliso Lehola
 ================================================================================================================================================
 
-MERN full-stack developer
+Software Engineer
 -------------------------
 
-I did a diploma in Information Technology specializing in software development, but after I did a 3-month internship at the Digital Academy in Johannesburg, I was exposed to the world of web development and I instantly fell in love. I love the idea of having the skills and ability to be able to start and finish a project on my own, hence I worked towards being a full-stack developer. I work well in a team setup as well though. I also have a passion for DevOps, AWS technologies, and data analysis, which I plan on pursuing as soon as I am proficient in using the MERN stack for developing web applications
+Software engineer with a passion for innovation and continuous learning. Proficient in Linux, Bash, Python, C, JavaScript, SQL, MongoDB, Node.js, and React.js, I bring a blend of technical expertise and a passion for problem-solving to every endeavor.
+Always eager to explore new technologies and tools, I thrive on staying ahead of the curve and embracing challenges head-on. Whether it's diving into data structures, optimizing algorithms, or mastering the latest frameworks, I'm fueled by a relentless curiosity and drive for excellence.
+
 
 <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" align="right" alt="Coding gif" width="300" />
 
 * 🌍  I'm based in Johannesburg
 * ✉️  You can contact me at [vtlehola23@gmail.com](mailto:vtlehola23@gmail.com)
-* 🧠  I'm learning to test web applications using React Testing Library and Jest as delivering reliable web applications is of the utmost importance to me as a developer
+* 🧠  I'm currently learning Docker
 * ⚡  I am a football fanatic and my favorite team is Manchester United
 
 
